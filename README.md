@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Salvation-Nwabz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Salvation-Nwabz.
+- 👀 I’m interested in web development training lessons.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Salvation-Nwabz/Salvation-Nwabz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me; reach me via my mail @ salvationnwabz@gmail.com
